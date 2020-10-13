@@ -1,0 +1,11 @@
+Step 1: In a fresh terminal (having admin access) install below modules (can use pip)
+	a. protlib
+	b. websocket_client
+	c. requests
+	d. bs4
+Step 2: Provide below details in main.py (from line 21 to 24)
+    a. username = ''
+    b. password = ''
+    c. api_secret = ''
+    d. twoFA = ''
+Step 3: Execute main.py
